@@ -1,0 +1,13 @@
+# JHU Genomic Data Science Working Group
+
+The JHU Genomic Data Science Working Group welcomes all students, postdoctoral fellows, and faculty who are interested in learning more about areas of research in Genomic Data Science. We aim to provide a welcoming, intellectually stimulating, and inclusive experience for everyone in the working group. 
+
+## Who are we 
+
+We are one of many [active working groups](https://publichealth.jhu.edu/departments/biostatistics/research-and-practice) in the [Department of Biostatistics](https://publichealth.jhu.edu/departments/biostatistics/) 
+at [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu).  
+
+## Information
+
+* Event details: The meeting schedule is posted in the #working_group_genomics channel in the JHU Biostats Slack workspace. 
+* GitHub: [github.com/jhugenomicdatascience](https://github.com/jhugenomicdatascience)

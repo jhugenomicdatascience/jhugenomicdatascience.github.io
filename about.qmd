@@ -1,0 +1,104 @@
+---
+title: "About"
+format: 
+    html:
+        toc: true
+---
+
+# Overview of genomic data science
+
+## What is genomic data science? 
+
+
+<figure>
+  <blockquote class="blockquote">
+    <p class="mb-0">Genomic data science is a field of study that enables researchers to use  computational and statistical methods to decode the functional information hidden in DNA sequences.</p>
+  
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    National Human Genome Research Institute [<a href="https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science">Source</a>]
+  </figcaption>
+</figure>
+
+The field emerged in the 1990s to bring together two laboratory activities:
+
+- **Experimentation**: Generating genomic information from studying the genomes of living organisms.
+ 
+- **Data analysis**: Using statistical and computational tools to analyze and visualize genomic data, which includes processing and storing data and using algorithms and software to make predictions based on available genomic data.
+ 
+Both activities help researchers acquire and gain insights from the vast amounts of genomic data. In fact, estimates predict that genomics research will generate between 2 and 40 exabytes of data within the next decade [[Source](https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science)].
+
+## Genetics vs. Genomics 
+
+Genetics and genomics both play important roles to better understand health and disease.
+
+- **Genetics** refers to the study of genes and the way that certain traits or conditions are passed down from one generation to another.
+- **Genomics** describes the study of all of a person's genes (the genome).
+
+[[Source](https://www.genome.gov/about-genomics/fact-sheets/Genetics-vs-Genomics)]
+
+In contrast to genetics, **genomics is often more... messy, spatial, temporal, and environmental**. 
+
+
+## Can you tell me more about genomics data? 
+
+Broadly, we work on **high-throughput molecular data**: the simultaneous measurement of 1000+ molecules in cells from tissues. 
+
+Molecular biology is currently undergoing a **measurement revolution**: every year new technologies allow us to measure new types of molecules in new contexts.
+
+These technologies allow us to ask many different questions, and each question combined with a measurement technology gives rise to a statistical problem (Genomics is often an umbrella term for these measurement techniques coupled with specific biological questions). 
+
+## But, what is special about genomics data? 
+
+Genomics is unusual in that open and wide-spread data-sharing is the norm. This opens up large opportunities for creative data analysis, especially across datasets.
+
+- In traditional statistics, we analyze the mathematical properties of our models. 
+
+- In genomics we can also ask: does our approach work better at making us understand the world?
+
+Genomics is arguably (one of) the first academic data sciences.
+ 
+## Statistics as a discovery science
+
+It is possible (but hard) to use all of this open data to create new questions and answers. In other words, to do data science as discovery and not just confirmation. 
+
+However, there are great [examples of how statisticians working in genomics have been quite successful](https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward) doing this. Broadly, the reasons are because they were able to: 
+
+- Identify specific, unsolved scientific questions
+- Focus on practical requirements for the problem at hand
+- Were willing to deal with messy, real-world data 
+- Brought unique skills for dealing with uncertainty
+- Efficiently leverage large amounts of relatively inexpensive data at scale 
+- Design tools to remove biases / extract meaningful information
+
+In this working group, we aim to reflect on these historical successes as we discuss emerging research areas, open challenges, and open opportunities in genomic data science. 
+
+# Overview of working group
+
+## What? 
+
+This is a working group within the JHU Department of Biostatistics designed to discuss emerging research topics related to genomic data science and statistical genomics. It will be a mix of local presentations from students and postdocs along with external speakers. Typical presenters will have 35-40 mins for a presentation along with time for questions. 
+
+## Who?
+
+This working group welcomes anyone in the JHU Department of Biostatistics (or outside visitors are welcome to) interested in learning about emerging research areas in genomic data science and statistical genomics. The organizers of the working group are the Biostats faculty working in genomics, including Stephanie Hicks, Kasper Hansen, Hongkai Ji, Margaret Taub, Weiqiang Zhou, Ni Zhao, and Ingo Ruczinski. 
+
+## Why? 
+
+Genomic Data Science is an exciting research area with many types of emerging technologies, for example spatial transcriptomics and genome editing. We believe it is important to have a working group discussing emerging problems in these areas within the Department of Biostatistics. 
+ 
+## When? 
+
+We meet roughly twice a month on Tuesdays from 12-1pm starting in alternating weeks when there are no Biostatistics faculty meetings. The working group will run on an academic calendar from September to May each year. We will take a break in the summer months from June to August. 
+
+## Where? 
+
+In person at the Bloomberg SPH. A zoom link will be available to only those who are in fully (or almost fully) remote positions, such as remote postdocs or faculty. 
+
+# More FAQs
+
+- What if I am sick or unable to attend in person? We understand unexpected things happen, but the working group would like to prioritize bringing people together in person for the meetings. If you are sick, please stay home, take care of yourself, and we look forward to you coming to a future meeting. 
+- How can I sign up to give a presentation? Contact one of the Faculty organizers. 
+- Can I invite someone outside of the Department of Biostatistics? Yes, we welcome others to attend, but we ask for RSVPs to help with a headcount in terms of seating.
+- Is there a google calendar for the meetings? No, we have a google spreadsheet available with the schedule.
+- All participants are expected to follow the guidelines under the [Departmental Code of Conduct](https://publichealth.jhu.edu/departments/biostatistics/about/department-of-biostatistics-code-of-conduct). 

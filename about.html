@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.54">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>About – Genomic Data Science</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Genomic Data Science</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./about.html" aria-current="page"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about-team.html"> 
+<span class="menu-text">Leadership Team</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/jhugenomicdatascience"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview-of-genomic-data-science" id="toc-overview-of-genomic-data-science" class="nav-link active" data-scroll-target="#overview-of-genomic-data-science">Overview of genomic data science</a>
+  <ul class="collapse">
+  <li><a href="#what-is-genomic-data-science" id="toc-what-is-genomic-data-science" class="nav-link" data-scroll-target="#what-is-genomic-data-science">What is genomic data science?</a></li>
+  <li><a href="#genetics-vs.-genomics" id="toc-genetics-vs.-genomics" class="nav-link" data-scroll-target="#genetics-vs.-genomics">Genetics vs.&nbsp;Genomics</a></li>
+  <li><a href="#can-you-tell-me-more-about-genomics-data" id="toc-can-you-tell-me-more-about-genomics-data" class="nav-link" data-scroll-target="#can-you-tell-me-more-about-genomics-data">Can you tell me more about genomics data?</a></li>
+  <li><a href="#but-what-is-special-about-genomics-data" id="toc-but-what-is-special-about-genomics-data" class="nav-link" data-scroll-target="#but-what-is-special-about-genomics-data">But, what is special about genomics data?</a></li>
+  <li><a href="#statistics-as-a-discovery-science" id="toc-statistics-as-a-discovery-science" class="nav-link" data-scroll-target="#statistics-as-a-discovery-science">Statistics as a discovery science</a></li>
+  </ul></li>
+  <li><a href="#overview-of-working-group" id="toc-overview-of-working-group" class="nav-link" data-scroll-target="#overview-of-working-group">Overview of working group</a>
+  <ul class="collapse">
+  <li><a href="#what" id="toc-what" class="nav-link" data-scroll-target="#what">What?</a></li>
+  <li><a href="#who" id="toc-who" class="nav-link" data-scroll-target="#who">Who?</a></li>
+  <li><a href="#why" id="toc-why" class="nav-link" data-scroll-target="#why">Why?</a></li>
+  <li><a href="#when" id="toc-when" class="nav-link" data-scroll-target="#when">When?</a></li>
+  <li><a href="#where" id="toc-where" class="nav-link" data-scroll-target="#where">Where?</a></li>
+  </ul></li>
+  <li><a href="#more-faqs" id="toc-more-faqs" class="nav-link" data-scroll-target="#more-faqs">More FAQs</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">About</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="overview-of-genomic-data-science" class="level1">
+<h1>Overview of genomic data science</h1>
+<section id="what-is-genomic-data-science" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-genomic-data-science">What is genomic data science?</h2>
+<figure class="figure">
+<blockquote class="blockquote">
+<p class="mb-0">
+Genomic data science is a field of study that enables researchers to use computational and statistical methods to decode the functional information hidden in DNA sequences.
+</p>
+</blockquote>
+<figcaption class="blockquote-footer">
+National Human Genome Research Institute [<a href="https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science">Source</a>]
+</figcaption>
+</figure>
+<p>The field emerged in the 1990s to bring together two laboratory activities:</p>
+<ul>
+<li><p><strong>Experimentation</strong>: Generating genomic information from studying the genomes of living organisms.</p></li>
+<li><p><strong>Data analysis</strong>: Using statistical and computational tools to analyze and visualize genomic data, which includes processing and storing data and using algorithms and software to make predictions based on available genomic data.</p></li>
+</ul>
+<p>Both activities help researchers acquire and gain insights from the vast amounts of genomic data. In fact, estimates predict that genomics research will generate between 2 and 40 exabytes of data within the next decade [<a href="https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science">Source</a>].</p>
+</section>
+<section id="genetics-vs.-genomics" class="level2">
+<h2 class="anchored" data-anchor-id="genetics-vs.-genomics">Genetics vs.&nbsp;Genomics</h2>
+<p>Genetics and genomics both play important roles to better understand health and disease.</p>
+<ul>
+<li><strong>Genetics</strong> refers to the study of genes and the way that certain traits or conditions are passed down from one generation to another.</li>
+<li><strong>Genomics</strong> describes the study of all of a person’s genes (the genome).</li>
+</ul>
+<p>[<a href="https://www.genome.gov/about-genomics/fact-sheets/Genetics-vs-Genomics">Source</a>]</p>
+<p>In contrast to genetics, <strong>genomics is often more… messy, spatial, temporal, and environmental</strong>.</p>
+</section>
+<section id="can-you-tell-me-more-about-genomics-data" class="level2">
+<h2 class="anchored" data-anchor-id="can-you-tell-me-more-about-genomics-data">Can you tell me more about genomics data?</h2>
+<p>Broadly, we work on <strong>high-throughput molecular data</strong>: the simultaneous measurement of 1000+ molecules in cells from tissues.</p>
+<p>Molecular biology is currently undergoing a <strong>measurement revolution</strong>: every year new technologies allow us to measure new types of molecules in new contexts.</p>
+<p>These technologies allow us to ask many different questions, and each question combined with a measurement technology gives rise to a statistical problem (Genomics is often an umbrella term for these measurement techniques coupled with specific biological questions).</p>
+</section>
+<section id="but-what-is-special-about-genomics-data" class="level2">
+<h2 class="anchored" data-anchor-id="but-what-is-special-about-genomics-data">But, what is special about genomics data?</h2>
+<p>Genomics is unusual in that open and wide-spread data-sharing is the norm. This opens up large opportunities for creative data analysis, especially across datasets.</p>
+<ul>
+<li><p>In traditional statistics, we analyze the mathematical properties of our models.</p></li>
+<li><p>In genomics we can also ask: does our approach work better at making us understand the world?</p></li>
+</ul>
+<p>Genomics is arguably (one of) the first academic data sciences.</p>
+</section>
+<section id="statistics-as-a-discovery-science" class="level2">
+<h2 class="anchored" data-anchor-id="statistics-as-a-discovery-science">Statistics as a discovery science</h2>
+<p>It is possible (but hard) to use all of this open data to create new questions and answers. In other words, to do data science as discovery and not just confirmation.</p>
+<p>However, there are great <a href="https://simplystatistics.org/posts/2013-05-29-what-statistics-should-do-about-big-data-problem-forward-not-solution-backward">examples of how statisticians working in genomics have been quite successful</a> doing this. Broadly, the reasons are because they were able to:</p>
+<ul>
+<li>Identify specific, unsolved scientific questions</li>
+<li>Focus on practical requirements for the problem at hand</li>
+<li>Were willing to deal with messy, real-world data</li>
+<li>Brought unique skills for dealing with uncertainty</li>
+<li>Efficiently leverage large amounts of relatively inexpensive data at scale</li>
+<li>Design tools to remove biases / extract meaningful information</li>
+</ul>
+<p>In this working group, we aim to reflect on these historical successes as we discuss emerging research areas, open challenges, and open opportunities in genomic data science.</p>
+</section>
+</section>
+<section id="overview-of-working-group" class="level1">
+<h1>Overview of working group</h1>
+<section id="what" class="level2">
+<h2 class="anchored" data-anchor-id="what">What?</h2>
+<p>This is a working group within the JHU Department of Biostatistics designed to discuss emerging research topics related to genomic data science and statistical genomics. It will be a mix of local presentations from students and postdocs along with external speakers. Typical presenters will have 35-40 mins for a presentation along with time for questions.</p>
+</section>
+<section id="who" class="level2">
+<h2 class="anchored" data-anchor-id="who">Who?</h2>
+<p>This working group welcomes anyone in the JHU Department of Biostatistics (or outside visitors are welcome to) interested in learning about emerging research areas in genomic data science and statistical genomics. The organizers of the working group are the Biostats faculty working in genomics, including Stephanie Hicks, Kasper Hansen, Hongkai Ji, Margaret Taub, Weiqiang Zhou, Ni Zhao, and Ingo Ruczinski.</p>
+</section>
+<section id="why" class="level2">
+<h2 class="anchored" data-anchor-id="why">Why?</h2>
+<p>Genomic Data Science is an exciting research area with many types of emerging technologies, for example spatial transcriptomics and genome editing. We believe it is important to have a working group discussing emerging problems in these areas within the Department of Biostatistics.</p>
+</section>
+<section id="when" class="level2">
+<h2 class="anchored" data-anchor-id="when">When?</h2>
+<p>We meet roughly twice a month on Tuesdays from 12-1pm starting in alternating weeks when there are no Biostatistics faculty meetings. The working group will run on an academic calendar from September to May each year. We will take a break in the summer months from June to August.</p>
+</section>
+<section id="where" class="level2">
+<h2 class="anchored" data-anchor-id="where">Where?</h2>
+<p>In person at the Bloomberg SPH. A zoom link will be available to only those who are in fully (or almost fully) remote positions, such as remote postdocs or faculty.</p>
+</section>
+</section>
+<section id="more-faqs" class="level1">
+<h1>More FAQs</h1>
+<ul>
+<li>What if I am sick or unable to attend in person? We understand unexpected things happen, but the working group would like to prioritize bringing people together in person for the meetings. If you are sick, please stay home, take care of yourself, and we look forward to you coming to a future meeting.</li>
+<li>How can I sign up to give a presentation? Contact one of the Faculty organizers.</li>
+<li>Can I invite someone outside of the Department of Biostatistics? Yes, we welcome others to attend, but we ask for RSVPs to help with a headcount in terms of seating.</li>
+<li>Is there a google calendar for the meetings? No, we have a google spreadsheet available with the schedule.</li>
+<li>All participants are expected to follow the guidelines under the <a href="https://publichealth.jhu.edu/departments/biostatistics/about/department-of-biostatistics-code-of-conduct">Departmental Code of Conduct</a>.</li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

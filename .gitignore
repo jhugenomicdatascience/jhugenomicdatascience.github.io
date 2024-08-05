@@ -2,3 +2,4 @@ _site/
 /.quarto/
 .Rbuildignore
 .Rproj.user/
+.DS_Store

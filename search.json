@@ -7,6 +7,13 @@
     "text": "The organizers of the working group are the Biostats faculty working in genomics, including"
   },
   {
+    "objectID": "about-team.html#kasper-hansen",
+    "href": "about-team.html#kasper-hansen",
+    "title": "Working Group Leadership Team",
+    "section": "Kasper Hansen",
+    "text": "Kasper Hansen\n\n\n\n\n\n\n\n\n\nKasper Hansen | I work on Genomic Data Science. My lab develops computational methods for analysis of high-throughput genomic data including transcriptomics and epigenomics measured using bulk, single-cell and spatial technologies. I have developed a number of very widely used software packages primarily released through the Bioconductor project. I am an associate professor of Biostatistics, Biomedical Engineering and Genetic Medicine."
+  },
+  {
     "objectID": "about-team.html#stephanie-hicks",
     "href": "about-team.html#stephanie-hicks",
     "title": "Working Group Leadership Team",
@@ -14,18 +21,18 @@
     "text": "Stephanie Hicks\n\n\n\n\n\n\n\n\n\nStephanie Hicks | Hello! I work at the intersection of data science and health as an Associate Professor of Biostatistics and Biomedical Engineering at Johns Hopkins University. I develop computational methods using statistics and machine learning for the analysis of single-cell and spatial genomic and imagine data. In 2024, I co-founded the JHU Genomic Data Science Working Group and today I help co-organize events! I work to made these spaces more welcoming, diverse, and inclusive. 🌱"
   },
   {
-    "objectID": "about-team.html#kasper-hansen",
-    "href": "about-team.html#kasper-hansen",
-    "title": "Working Group Leadership Team",
-    "section": "Kasper Hansen",
-    "text": "Kasper Hansen"
-  },
-  {
     "objectID": "about-team.html#hongkai-ji",
     "href": "about-team.html#hongkai-ji",
     "title": "Working Group Leadership Team",
     "section": "Hongkai Ji",
-    "text": "Hongkai Ji"
+    "text": "Hongkai Ji\n\n\n\n\n\n\n\n\n\nHongkai Ji | Add here."
+  },
+  {
+    "objectID": "about-team.html#ingo-ruczinski",
+    "href": "about-team.html#ingo-ruczinski",
+    "title": "Working Group Leadership Team",
+    "section": "Ingo Ruczinski",
+    "text": "Ingo Ruczinski\n\n\n\n\n\n\n\n\n\nIngo Ruczinski | My professional expertise is in statistical genetics, genomics and proteomics. I have developed or co-developed several methodologies and open source software packages relevant for genomic array pre-processing, SNP association studies, population and family-based sequencing studies, studies of DNA copy number variants, and proteomic analyses, including data from PhIP-Seq and MIPSA experiments. I collaborate on several large-scale genomic association and sequencing studies at Johns Hopkins and as part of larger collaborations including the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program."
   },
   {
     "objectID": "about-team.html#margaret-taub",
@@ -39,56 +46,14 @@
     "href": "about-team.html#weiqiang-zhou",
     "title": "Working Group Leadership Team",
     "section": "Weiqiang Zhou",
-    "text": "Weiqiang Zhou"
+    "text": "Weiqiang Zhou\n\n\n\n\n\n\n\n\n\nWeiqiang Zhou | Add here."
   },
   {
     "objectID": "about-team.html#ni-zhao",
     "href": "about-team.html#ni-zhao",
     "title": "Working Group Leadership Team",
     "section": "Ni Zhao",
-    "text": "Ni Zhao"
-  },
-  {
-    "objectID": "about-team.html#ingo-ruczinski",
-    "href": "about-team.html#ingo-ruczinski",
-    "title": "Working Group Leadership Team",
-    "section": "Ingo Ruczinski",
-    "text": "Ingo Ruczinski"
-  },
-  {
-    "objectID": "about-team.html#nilanjan-chatterjee",
-    "href": "about-team.html#nilanjan-chatterjee",
-    "title": "Working Group Leadership Team",
-    "section": "Nilanjan Chatterjee",
-    "text": "Nilanjan Chatterjee"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "JHU Genomic Data Science Working Group",
-    "section": "",
-    "text": "The JHU Genomic Data Science Working Group welcomes all students, postdoctoral fellows, and faculty who are interested in learning more about areas of research in Genomic Data Science. We aim to provide a welcoming, intellectually stimulating, and inclusive experience for everyone in the working group.\n\n\nWe are one of many active working groups in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health.\n\n\n\n\nEvent details: The meeting schedule is posted in the #working_group_genomics channel in the JHU Biostats Slack workspace.\nGitHub: github.com/jhugenomicdatascience"
-  },
-  {
-    "objectID": "index.html#who-are-we",
-    "href": "index.html#who-are-we",
-    "title": "JHU Genomic Data Science Working Group",
-    "section": "",
-    "text": "We are one of many active working groups in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health."
-  },
-  {
-    "objectID": "index.html#information",
-    "href": "index.html#information",
-    "title": "JHU Genomic Data Science Working Group",
-    "section": "",
-    "text": "Event details: The meeting schedule is posted in the #working_group_genomics channel in the JHU Biostats Slack workspace.\nGitHub: github.com/jhugenomicdatascience"
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "MIT License",
-    "section": "",
-    "text": "MIT License\nCopyright (c) 2023 Margaret Taub\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    "text": "Ni Zhao\n\n\n\n\n\n\n\n\n\nNi Zhao | Add here."
   },
   {
     "objectID": "about.html",
@@ -166,5 +131,33 @@
     "title": "About",
     "section": "Where?",
     "text": "Where?\nIn person at the Bloomberg SPH. A zoom link will be available to only those who are in fully (or almost fully) remote positions, such as remote postdocs or faculty."
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "MIT License",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2023 Margaret Taub\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JHU Genomic Data Science Working Group",
+    "section": "",
+    "text": "The JHU Genomic Data Science Working Group welcomes all students, postdoctoral fellows, and faculty who are interested in learning more about areas of research in Genomic Data Science. We aim to provide a welcoming, intellectually stimulating, and inclusive experience for everyone in the working group.\n\n\nWe are one of many active working groups in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health.\n\n\n\n\nEvent details: The meeting schedule is posted in the #working_group_genomics channel in the JHU Biostats Slack workspace.\nGitHub: github.com/jhugenomicdatascience"
+  },
+  {
+    "objectID": "index.html#who-are-we",
+    "href": "index.html#who-are-we",
+    "title": "JHU Genomic Data Science Working Group",
+    "section": "",
+    "text": "We are one of many active working groups in the Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health."
+  },
+  {
+    "objectID": "index.html#information",
+    "href": "index.html#information",
+    "title": "JHU Genomic Data Science Working Group",
+    "section": "",
+    "text": "Event details: The meeting schedule is posted in the #working_group_genomics channel in the JHU Biostats Slack workspace.\nGitHub: github.com/jhugenomicdatascience"
   }
 ]

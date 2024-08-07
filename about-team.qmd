@@ -8,17 +8,6 @@ format:
 
 The organizers of the working group are the Biostats faculty working in genomics, including 
 
-## Kasper Hansen
-
-::: {layout="[21,79]" .profile-header}
-
-![](images/kasper_hansen.png){.profile-pic}
-
-[**Kasper Hansen**](https://www.hansenlab.org) | I work on Genomic Data Science. My lab develops computational methods for analysis of high-throughput genomic data including transcriptomics and epigenomics measured using bulk, single-cell and spatial technologies. I have developed a number of very widely used software packages primarily released through the Bioconductor project. I am an associate professor of Biostatistics, Biomedical Engineering and Genetic Medicine. 
-
-:::
-
-
 ## Stephanie Hicks
 
 ::: {layout="[21,79]" .profile-header}
@@ -29,10 +18,15 @@ The organizers of the working group are the Biostats faculty working in genomics
 
 :::
 
+## Kasper Hansen
 
+::: {layout="[21,79]" .profile-header}
 
+![](images/kasper_hansen.png){.profile-pic}
 
+[**Kasper Hansen**](https://www.hansenlab.org) | I work on Genomic Data Science. My lab develops computational methods for analysis of high-throughput genomic data including transcriptomics and epigenomics measured using bulk, single-cell and spatial technologies. I have developed a number of very widely used software packages primarily released through the Bioconductor project. I am an associate professor of Biostatistics, Biomedical Engineering and Genetic Medicine. 
 
+:::
 
 ## Hongkai Ji
 
@@ -43,18 +37,6 @@ The organizers of the working group are the Biostats faculty working in genomics
 [**Hongkai Ji**](https://jilab.org) | Add here. 
 
 :::
-
-## Ingo Ruczinski
-
-::: {layout="[21,79]" .profile-header}
-
-![](images/ingo_ruczinski.jpg){.profile-pic}
-
-[**Ingo Ruczinski**](https://biostat.jhsph.edu/~iruczins/) | My professional expertise is in statistical genetics, genomics and proteomics. I have developed or co-developed several methodologies and open source software packages relevant for genomic array pre-processing, SNP association studies, population and family-based sequencing studies, studies of DNA copy number variants, and proteomic analyses, including data from PhIP-Seq and MIPSA experiments. I collaborate on several large-scale genomic association and sequencing studies at Johns Hopkins and as part of larger collaborations including the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program.
-
-:::
-
-
 
 ## Margaret Taub
 
@@ -88,3 +70,26 @@ The organizers of the working group are the Biostats faculty working in genomics
 [**Ni Zhao**](https://www.biostat.jhsph.edu/~nzhao/) | Add here. 
 
 :::
+
+
+## Ingo Ruczinski
+
+::: {layout="[21,79]" .profile-header}
+
+![](images/ingo_ruczinski.jpg){.profile-pic}
+
+[**Ingo Ruczinski**](https://biostat.jhsph.edu/~iruczins/) | My professional expertise is in statistical genetics, genomics and proteomics. I have developed or co-developed several methodologies and open source software packages relevant for genomic array pre-processing, SNP association studies, population and family-based sequencing studies, studies of DNA copy number variants, and proteomic analyses, including data from PhIP-Seq and MIPSA experiments. I collaborate on several large-scale genomic association and sequencing studies at Johns Hopkins and as part of larger collaborations including the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program.
+
+:::
+
+## Nilanjan Chatterjee
+
+::: {layout="[21,79]" .profile-header}
+
+![](images/nilanjan_chatterjee.png){.profile-pic}
+
+[**Nilanjan Chatterjee**](https://publichealth.jhu.edu/faculty/1826/nilanjan-chatterjee) | Dr. Chatterjee is a Bloomberg Distinguished Professor at the Department of Biostatistics, Bloomberg School of Public Health, and Department of Oncology School of Medicine at the Johns Hopkins University. Before joining Johns Hopkins, he led the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics of the US National Cancer Institute during 2008-2015. He is known for foundational and methodological contributions to multiple areas of modern biomedical data science, including large-scale analysis of genetic associations, gene-environment interactions, and predictive model building by synthesis of information from various data sources.  He has received numerous prestigious national and international awards, including the celebrated Committee of the Presidents of Statistical Societies (COPSS) President’s Award. He is an elected Fellow of the American Statistical Association and American Epidemiological Society. He serves on the scientific advisory committee of the Radiation Effect Research Foundation, Hiroshima, Japan and the Population and Prevention Research Committee of the foundation of Cancer Research UK.
+
+:::
+
+

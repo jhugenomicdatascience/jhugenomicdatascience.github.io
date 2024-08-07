@@ -7,13 +7,6 @@
     "text": "The organizers of the working group are the Biostats faculty working in genomics, including"
   },
   {
-    "objectID": "about-team.html#kasper-hansen",
-    "href": "about-team.html#kasper-hansen",
-    "title": "Working Group Leadership Team",
-    "section": "Kasper Hansen",
-    "text": "Kasper Hansen\n\n\n\n\n\n\n\n\n\nKasper Hansen | I work on Genomic Data Science. My lab develops computational methods for analysis of high-throughput genomic data including transcriptomics and epigenomics measured using bulk, single-cell and spatial technologies. I have developed a number of very widely used software packages primarily released through the Bioconductor project. I am an associate professor of Biostatistics, Biomedical Engineering and Genetic Medicine."
-  },
-  {
     "objectID": "about-team.html#stephanie-hicks",
     "href": "about-team.html#stephanie-hicks",
     "title": "Working Group Leadership Team",
@@ -21,18 +14,18 @@
     "text": "Stephanie Hicks\n\n\n\n\n\n\n\n\n\nStephanie Hicks | Hello! I work at the intersection of data science and health as an Associate Professor of Biostatistics and Biomedical Engineering at Johns Hopkins University. I develop computational methods using statistics and machine learning for the analysis of single-cell and spatial genomic and imagine data. In 2024, I co-founded the JHU Genomic Data Science Working Group and today I help co-organize events! I work to made these spaces more welcoming, diverse, and inclusive. 🌱"
   },
   {
+    "objectID": "about-team.html#kasper-hansen",
+    "href": "about-team.html#kasper-hansen",
+    "title": "Working Group Leadership Team",
+    "section": "Kasper Hansen",
+    "text": "Kasper Hansen\n\n\n\n\n\n\n\n\n\nKasper Hansen | I work on Genomic Data Science. My lab develops computational methods for analysis of high-throughput genomic data including transcriptomics and epigenomics measured using bulk, single-cell and spatial technologies. I have developed a number of very widely used software packages primarily released through the Bioconductor project. I am an associate professor of Biostatistics, Biomedical Engineering and Genetic Medicine."
+  },
+  {
     "objectID": "about-team.html#hongkai-ji",
     "href": "about-team.html#hongkai-ji",
     "title": "Working Group Leadership Team",
     "section": "Hongkai Ji",
     "text": "Hongkai Ji\n\n\n\n\n\n\n\n\n\nHongkai Ji | Add here."
-  },
-  {
-    "objectID": "about-team.html#ingo-ruczinski",
-    "href": "about-team.html#ingo-ruczinski",
-    "title": "Working Group Leadership Team",
-    "section": "Ingo Ruczinski",
-    "text": "Ingo Ruczinski\n\n\n\n\n\n\n\n\n\nIngo Ruczinski | My professional expertise is in statistical genetics, genomics and proteomics. I have developed or co-developed several methodologies and open source software packages relevant for genomic array pre-processing, SNP association studies, population and family-based sequencing studies, studies of DNA copy number variants, and proteomic analyses, including data from PhIP-Seq and MIPSA experiments. I collaborate on several large-scale genomic association and sequencing studies at Johns Hopkins and as part of larger collaborations including the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program."
   },
   {
     "objectID": "about-team.html#margaret-taub",
@@ -54,6 +47,20 @@
     "title": "Working Group Leadership Team",
     "section": "Ni Zhao",
     "text": "Ni Zhao\n\n\n\n\n\n\n\n\n\nNi Zhao | Add here."
+  },
+  {
+    "objectID": "about-team.html#ingo-ruczinski",
+    "href": "about-team.html#ingo-ruczinski",
+    "title": "Working Group Leadership Team",
+    "section": "Ingo Ruczinski",
+    "text": "Ingo Ruczinski\n\n\n\n\n\n\n\n\n\nIngo Ruczinski | My professional expertise is in statistical genetics, genomics and proteomics. I have developed or co-developed several methodologies and open source software packages relevant for genomic array pre-processing, SNP association studies, population and family-based sequencing studies, studies of DNA copy number variants, and proteomic analyses, including data from PhIP-Seq and MIPSA experiments. I collaborate on several large-scale genomic association and sequencing studies at Johns Hopkins and as part of larger collaborations including the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program."
+  },
+  {
+    "objectID": "about-team.html#nilanjan-chatterjee",
+    "href": "about-team.html#nilanjan-chatterjee",
+    "title": "Working Group Leadership Team",
+    "section": "Nilanjan Chatterjee",
+    "text": "Nilanjan Chatterjee\n\n\n\n\n\n\n\n\n\nNilanjan Chatterjee | Dr. Chatterjee is a Bloomberg Distinguished Professor at the Department of Biostatistics, Bloomberg School of Public Health, and Department of Oncology School of Medicine at the Johns Hopkins University. Before joining Johns Hopkins, he led the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics of the US National Cancer Institute during 2008-2015. He is known for foundational and methodological contributions to multiple areas of modern biomedical data science, including large-scale analysis of genetic associations, gene-environment interactions, and predictive model building by synthesis of information from various data sources.  He has received numerous prestigious national and international awards, including the celebrated Committee of the Presidents of Statistical Societies (COPSS) President’s Award. He is an elected Fellow of the American Statistical Association and American Epidemiological Society. He serves on the scientific advisory committee of the Radiation Effect Research Foundation, Hiroshima, Japan and the Population and Prevention Research Committee of the foundation of Cancer Research UK."
   },
   {
     "objectID": "about.html",

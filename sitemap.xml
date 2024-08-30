@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jhugenomicdatascience.github.io/about-team.html</loc>
-    <lastmod>2024-08-07T10:18:02.577Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jhugenomicdatascience.github.io/about.html</loc>
-    <lastmod>2024-08-07T10:18:02.577Z</lastmod>
+    <loc>https://jhugenomicdatascience.github.io/index.html</loc>
+    <lastmod>2024-08-30T19:40:09.484Z</lastmod>
   </url>
   <url>
     <loc>https://jhugenomicdatascience.github.io/LICENSE.html</loc>
-    <lastmod>2024-08-07T10:18:02.577Z</lastmod>
+    <lastmod>2024-08-30T19:40:09.472Z</lastmod>
   </url>
   <url>
-    <loc>https://jhugenomicdatascience.github.io/index.html</loc>
-    <lastmod>2024-08-07T10:18:02.589Z</lastmod>
+    <loc>https://jhugenomicdatascience.github.io/about.html</loc>
+    <lastmod>2024-08-30T19:40:09.472Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jhugenomicdatascience.github.io/about-team.html</loc>
+    <lastmod>2024-08-30T19:40:09.472Z</lastmod>
   </url>
 </urlset>

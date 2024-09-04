@@ -67,7 +67,7 @@ The organizers of the working group are the Biostats faculty working in genomics
 
 ![](images/ni_zhao.png){.profile-pic}
 
-[**Ni Zhao**](https://www.biostat.jhsph.edu/~nzhao/) | Add here. 
+[**Ni Zhao**](https://www.biostat.jhsph.edu/~nzhao/) | Our team specializes in developing and applying advanced statistical and machine learning methodologies to address challenges in large-scale ‘omics’ studies. Our expertise spans metagenomics, genomics, immune profiling, and data derived from advanced spatial technologies, including spatial microbiome and spatial proteomics. Recent projects have focused on improving our understanding and correction of biases and unknown batch effects in microbiome research, facilitating both vertical and horizontal integration of microbiome data with other data types, and developing predictive models from high-throughput sequencing studies. 
 
 :::
 

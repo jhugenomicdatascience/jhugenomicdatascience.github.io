@@ -55,7 +55,7 @@ The organizers of the working group are the Biostats faculty working in genomics
 
 ![](images/weiqiang_zhou.jpg){.profile-pic}
 
-[**Weiqiang Zhou**](https://www.weiqiangzhou.com) | I am a data scientist working on genomics and big data analysis. I develop statistical and computational tools for integrative analysis of large-scale genomic data, including bulk and single-cell data, to study gene regulation in different diseases and biological systems. 
+[**Weiqiang Zhou**](https://www.weiqiangzhou.com) | I am a data scientist working on genomics and big data analysis. I develop statistical and computational tools for integrative analysis of large-scale genomic data, including bulk and single-cell data, to study gene regulation in different diseases and biological systems. My team currently focuses on developing machine learning (AI) models to analyze single-cell multiomics data.
 
 :::
 

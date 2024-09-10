@@ -44,7 +44,7 @@ The organizers of the working group are the Biostats faculty working in genomics
 
 ![](images/margaret_taub.png){.profile-pic}
 
-[**Margaret Taub**](https://publichealth.jhu.edu/faculty/2744/margaret-taub) | Add here. 
+[**Margaret Taub**](https://publichealth.jhu.edu/faculty/2744/margaret-taub) | I work collaboratively with other biostatisticians, clinicians and epidemiologists to use genetic and genomic data to understand the causes of complex diseases/traits, including asthma, cardiovascular disease and chronic pain. I am particularly interested in study design and statistical approaches to alleviate technical artifacts, development of reproducible data generation and quality control pipelines, and integrative genomics data analysis, where multiple data types can be leveraged to shed light on the trait of interest.
 
 :::
 

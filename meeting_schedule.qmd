@@ -7,7 +7,11 @@ format:
 ---
 
 ## Previous meetings:
+### 09/10/2024
+*    Speaker: Leadership team PIs
+*    Topic: Overview of Genomic Data Science in the department
 
 ## Next meeting:
-
-## Upcoming meetings:
+### 09/24/2024
+*    Speaker: Haoyu Zhang (NIH)
+*    Topic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care

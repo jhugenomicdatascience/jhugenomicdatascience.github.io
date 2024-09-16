@@ -77,18 +77,25 @@
     "text": "Where?\nIn person at the Bloomberg SPH. A zoom link will be available to only those who are in fully (or almost fully) remote positions, such as remote postdocs or faculty."
   },
   {
+    "objectID": "meeting_schedule.html",
+    "href": "meeting_schedule.html",
+    "title": "Meeting Schedule",
+    "section": "",
+    "text": "Speaker: Leadership team PIs\nTopic: Overview of Genomic Data Science in the department"
+  },
+  {
+    "objectID": "meeting_schedule.html#previous-meetings",
+    "href": "meeting_schedule.html#previous-meetings",
+    "title": "Meeting Schedule",
+    "section": "",
+    "text": "Speaker: Leadership team PIs\nTopic: Overview of Genomic Data Science in the department"
+  },
+  {
     "objectID": "meeting_schedule.html#next-meeting",
     "href": "meeting_schedule.html#next-meeting",
     "title": "Meeting Schedule",
     "section": "Next meeting:",
-    "text": "Next meeting:"
-  },
-  {
-    "objectID": "meeting_schedule.html#upcoming-meetings",
-    "href": "meeting_schedule.html#upcoming-meetings",
-    "title": "Meeting Schedule",
-    "section": "Upcoming meetings:",
-    "text": "Upcoming meetings:"
+    "text": "Next meeting:\n\n09/24/2024\n\nSpeaker: Haoyu Zhang (NIH)\nTopic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care"
   },
   {
     "objectID": "about-team.html",

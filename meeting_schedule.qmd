@@ -15,3 +15,12 @@ format:
 ### 09/24/2024
 *    Speaker: Haoyu Zhang (NIH)
 *    Topic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care
+
+## Upcoming meeting:
+### 10/08/2024
+*    Speaker: Winston Timp (JHU,BME)
+*    Topic: Decoding the central dogma with single molecule sequencing
+
+### 10/22/2024
+*    Speaker: Rob Scharpf (JHU,SOM)
+*    Topic: TBA

@@ -15,6 +15,7 @@ format:
 ### 09/24/2024
 *    Speaker: Haoyu Zhang (NIH)
 *    Topic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care
+*    [Sign up to meet with the speaker](https://docs.google.com/spreadsheets/d/1xFJimpGnv20pqMRCCCpvUhay3G2DuKgYWf8mKQCW3TE/edit?usp=sharing)
 
 ## Upcoming meeting:
 ### 10/08/2024

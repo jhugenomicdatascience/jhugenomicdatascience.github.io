@@ -11,17 +11,16 @@ format:
 *    Speaker: Leadership team PIs
 *    Topic: Overview of Genomic Data Science in the department
 
-## Next meeting:
 ### 09/24/2024
 *    Speaker: Haoyu Zhang (NIH)
 *    Topic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care
-*    [Sign up to meet with the speaker](https://docs.google.com/spreadsheets/d/1xFJimpGnv20pqMRCCCpvUhay3G2DuKgYWf8mKQCW3TE/edit?usp=sharing)
 
-## Upcoming meeting:
+## Next meeting:
 ### 10/08/2024
 *    Speaker: Winston Timp (JHU,BME)
 *    Topic: Decoding the central dogma with single molecule sequencing
 
+## Upcoming meetings:
 ### 10/22/2024
 *    Speaker: Rob Scharpf (JHU,SOM)
 *    Topic: TBA

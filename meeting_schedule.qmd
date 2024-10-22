@@ -15,12 +15,16 @@ format:
 *    Speaker: Haoyu Zhang (NIH)
 *    Topic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care
 
-## Next meeting:
 ### 10/08/2024
 *    Speaker: Winston Timp (JHU,BME)
 *    Topic: Decoding the central dogma with single molecule sequencing
 
-## Upcoming meetings:
+## Next meeting:
 ### 10/22/2024
 *    Speaker: Rob Scharpf (JHU,SOM)
-*    Topic: TBA
+*    Topic: A cell-free DNA biomarker for early cancer detection
+
+## Upcoming meetings:
+### 10/29/2024
+*    Speaker: Jin Jin (UPenn)
+*    Topic: Bayesian Mendelian randomization analysis for latent exposures leveraging GWAS summary statistics for traits co-regulated by the exposures

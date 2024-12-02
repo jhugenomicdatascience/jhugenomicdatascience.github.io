@@ -32,6 +32,7 @@ format:
 *    Topic: RMA
 
 ## Next meeting:
+### 12/03/2024
 *    Speaker: Sydney Connor and Tianbei Zhang (JHU SOM/BKI)
 *    Topic: TBA
 

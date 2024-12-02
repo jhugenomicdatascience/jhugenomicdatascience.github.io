@@ -19,12 +19,21 @@ format:
 *    Speaker: Winston Timp (JHU,BME)
 *    Topic: Decoding the central dogma with single molecule sequencing
 
-## Next meeting:
 ### 10/22/2024
 *    Speaker: Rob Scharpf (JHU,SOM)
 *    Topic: A cell-free DNA biomarker for early cancer detection
 
-## Upcoming meetings:
 ### 10/29/2024
 *    Speaker: Jin Jin (UPenn)
 *    Topic: Bayesian Mendelian randomization analysis for latent exposures leveraging GWAS summary statistics for traits co-regulated by the exposures
+
+### 11/19/2024
+*    Speaker: Kasper Hansen
+*    Topic: RMA
+
+## Next meeting:
+*    Speaker: Sydney Connor and Tianbei Zhang (JHU SOM/BKI)
+*    Topic: TBA
+
+## Upcoming meetings:
+TBA

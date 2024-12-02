@@ -6,6 +6,11 @@ format:
         toc-depth: 2
 ---
 
+## Next meeting:
+### 12/03/2024
+*    Speaker: Sydney Connor and Tianbei Zhang (JHU SOM/BKI)
+*    Topic: TBA
+
 ## Previous meetings:
 ### 09/10/2024
 *    Speaker: Leadership team PIs
@@ -30,11 +35,3 @@ format:
 ### 11/19/2024
 *    Speaker: Kasper Hansen
 *    Topic: RMA
-
-## Next meeting:
-### 12/03/2024
-*    Speaker: Sydney Connor and Tianbei Zhang (JHU SOM/BKI)
-*    Topic: TBA
-
-## Upcoming meetings:
-TBA

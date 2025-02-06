@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "meeting_schedule.html",
-    "href": "meeting_schedule.html",
-    "title": "Meeting Schedule",
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "MIT License",
     "section": "",
-    "text": "Speaker: Sydney Connor and Tianbei Zhang (JHU SOM/BKI)\nTopic: TBA"
-  },
-  {
-    "objectID": "meeting_schedule.html#next-meeting",
-    "href": "meeting_schedule.html#next-meeting",
-    "title": "Meeting Schedule",
-    "section": "",
-    "text": "Speaker: Sydney Connor and Tianbei Zhang (JHU SOM/BKI)\nTopic: TBA"
-  },
-  {
-    "objectID": "meeting_schedule.html#previous-meetings",
-    "href": "meeting_schedule.html#previous-meetings",
-    "title": "Meeting Schedule",
-    "section": "Previous meetings:",
-    "text": "Previous meetings:\n\n09/10/2024\n\nSpeaker: Leadership team PIs\nTopic: Overview of Genomic Data Science in the department\n\n\n\n09/24/2024\n\nSpeaker: Haoyu Zhang (NIH)\nTopic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care\n\n\n\n10/08/2024\n\nSpeaker: Winston Timp (JHU,BME)\nTopic: Decoding the central dogma with single molecule sequencing\n\n\n\n10/22/2024\n\nSpeaker: Rob Scharpf (JHU,SOM)\nTopic: A cell-free DNA biomarker for early cancer detection\n\n\n\n10/29/2024\n\nSpeaker: Jin Jin (UPenn)\nTopic: Bayesian Mendelian randomization analysis for latent exposures leveraging GWAS summary statistics for traits co-regulated by the exposures\n\n\n\n11/19/2024\n\nSpeaker: Kasper Hansen\nTopic: RMA"
+    "text": "MIT License\nCopyright (c) 2023 Margaret Taub\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
     "objectID": "about-team.html",
@@ -82,6 +68,27 @@
     "title": "Working Group Leadership Team",
     "section": "Nilanjan Chatterjee",
     "text": "Nilanjan Chatterjee\n\n\n\n\n\n\n\n\n\nNilanjan Chatterjee | Dr. Chatterjee is a Bloomberg Distinguished Professor at the Department of Biostatistics, Bloomberg School of Public Health, and Department of Oncology School of Medicine at the Johns Hopkins University. Before joining Johns Hopkins, he led the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics of the US National Cancer Institute during 2008-2015. He is known for foundational and methodological contributions to multiple areas of modern biomedical data science, including large-scale analysis of genetic associations, gene-environment interactions, and predictive model building by synthesis of information from various data sources.  He has received numerous prestigious national and international awards, including the celebrated Committee of the Presidents of Statistical Societies (COPSS) President’s Award. He is an elected Fellow of the American Statistical Association and American Epidemiological Society. He serves on the scientific advisory committee of the Radiation Effect Research Foundation, Hiroshima, Japan and the Population and Prevention Research Committee of the foundation of Cancer Research UK."
+  },
+  {
+    "objectID": "meeting_schedule.html",
+    "href": "meeting_schedule.html",
+    "title": "Meeting Schedule",
+    "section": "",
+    "text": "Speaker: Chris Ladd-Acosta/Johnathan He\nTopic: TBD"
+  },
+  {
+    "objectID": "meeting_schedule.html#next-meeting",
+    "href": "meeting_schedule.html#next-meeting",
+    "title": "Meeting Schedule",
+    "section": "",
+    "text": "Speaker: Chris Ladd-Acosta/Johnathan He\nTopic: TBD"
+  },
+  {
+    "objectID": "meeting_schedule.html#previous-meetings",
+    "href": "meeting_schedule.html#previous-meetings",
+    "title": "Meeting Schedule",
+    "section": "Previous meetings:",
+    "text": "Previous meetings:\n\n01/16/2025\n\nSpeaker: Xuegong Zhang\nTopic: Making machines to learn biology from single-cell omics data\n\n\n\n01/21/2025\n\nSpeaker: Rasika Mathias (NIAID)\nTopic: Genomics and Precision Health in the Allergic Diathesis"
   },
   {
     "objectID": "about.html",
@@ -159,13 +166,6 @@
     "title": "About",
     "section": "Where?",
     "text": "Where?\nIn person at the Bloomberg SPH. A zoom link will be available to only those who are in fully (or almost fully) remote positions, such as remote postdocs or faculty."
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "MIT License",
-    "section": "",
-    "text": "MIT License\nCopyright (c) 2023 Margaret Taub\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
     "objectID": "index.html",

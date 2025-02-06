@@ -7,31 +7,17 @@ format:
 ---
 
 ## Next meeting:
-### 12/03/2024
-*    Speaker: Sydney Connor and Tianbei Zhang (JHU SOM/BKI)
-*    Topic: TBA
+### 02/11/2025
+*    Speaker: Chris Ladd-Acosta/Johnathan He
+*    Topic: TBD
+
 
 ## Previous meetings:
-### 09/10/2024
-*    Speaker: Leadership team PIs
-*    Topic: Overview of Genomic Data Science in the department
+### 01/16/2025
+*    Speaker: Xuegong Zhang
+*    Topic: Making machines to learn biology from single-cell omics data
 
-### 09/24/2024
-*    Speaker: Haoyu Zhang (NIH)
-*    Topic: Advances in Polygenic Risk Prediction: Scalable Methods and Applications in Personalized Care
+### 01/21/2025
+*    Speaker: Rasika Mathias (NIAID)
+*    Topic: Genomics and Precision Health in the Allergic Diathesis
 
-### 10/08/2024
-*    Speaker: Winston Timp (JHU,BME)
-*    Topic: Decoding the central dogma with single molecule sequencing
-
-### 10/22/2024
-*    Speaker: Rob Scharpf (JHU,SOM)
-*    Topic: A cell-free DNA biomarker for early cancer detection
-
-### 10/29/2024
-*    Speaker: Jin Jin (UPenn)
-*    Topic: Bayesian Mendelian randomization analysis for latent exposures leveraging GWAS summary statistics for traits co-regulated by the exposures
-
-### 11/19/2024
-*    Speaker: Kasper Hansen
-*    Topic: RMA

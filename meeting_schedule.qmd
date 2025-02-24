@@ -7,10 +7,9 @@ format:
 ---
 
 ## Next meeting:
-### 02/11/2025
-*    Speaker: Chris Ladd-Acosta/Johnathan He
-*    Topic: TBD
-
+### 02/25/2025
+*    Speaker: Yiqun Chen
+*    Topic: Language-guided genomics analysis
 
 ## Previous meetings:
 ### 01/16/2025
@@ -21,3 +20,6 @@ format:
 *    Speaker: Rasika Mathias (NIAID)
 *    Topic: Genomics and Precision Health in the Allergic Diathesis
 
+### 02/11/2025
+*    Speaker: Chris Ladd-Acosta/Johnathan He
+*    Topic: TBD

@@ -21,25 +21,95 @@
     "text": "Event details: The meeting schedule is posted in the #working_group_genomics channel in the JHU Biostats Slack workspace.\nGitHub: github.com/jhugenomicdatascience"
   },
   {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "MIT License",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2023 Margaret Taub\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
     "objectID": "meeting_schedule.html",
     "href": "meeting_schedule.html",
     "title": "Meeting Schedule",
     "section": "",
-    "text": "Speaker: Yiqun Chen\nTopic: Language-guided genomics analysis"
+    "text": "Speaker: Leadership team\nTopic: Overview of Genomic Data Science in the department\nLocation: W2015"
   },
   {
     "objectID": "meeting_schedule.html#next-meeting",
     "href": "meeting_schedule.html#next-meeting",
     "title": "Meeting Schedule",
     "section": "",
-    "text": "Speaker: Yiqun Chen\nTopic: Language-guided genomics analysis"
+    "text": "Speaker: Leadership team\nTopic: Overview of Genomic Data Science in the department\nLocation: W2015"
   },
   {
     "objectID": "meeting_schedule.html#previous-meetings",
     "href": "meeting_schedule.html#previous-meetings",
     "title": "Meeting Schedule",
     "section": "Previous meetings:",
-    "text": "Previous meetings:\n\n01/16/2025\n\nSpeaker: Xuegong Zhang\nTopic: Making machines to learn biology from single-cell omics data\n\n\n\n01/21/2025\n\nSpeaker: Rasika Mathias (NIAID)\nTopic: Genomics and Precision Health in the Allergic Diathesis\n\n\n\n02/11/2025\n\nSpeaker: Chris Ladd-Acosta/Johnathan He\nTopic: TBD"
+    "text": "Previous meetings:"
+  },
+  {
+    "objectID": "about-team.html",
+    "href": "about-team.html",
+    "title": "Working Group Leadership Team",
+    "section": "",
+    "text": "The organizers of the working group are the Biostats faculty working in genomics, including"
+  },
+  {
+    "objectID": "about-team.html#stephanie-hicks",
+    "href": "about-team.html#stephanie-hicks",
+    "title": "Working Group Leadership Team",
+    "section": "Stephanie Hicks",
+    "text": "Stephanie Hicks\n\n\n\n\n\n\nStephanie Hicks | Hello! I work at the intersection of data science and health as an Associate Professor of Biostatistics and Biomedical Engineering at Johns Hopkins University. I develop computational methods using statistics and machine learning for the analysis of single-cell and spatial genomic and imagine data. In 2024, I co-founded the JHU Genomic Data Science Working Group and today I help co-organize events! I work to made these spaces more welcoming, diverse, and inclusive. 🌱"
+  },
+  {
+    "objectID": "about-team.html#kasper-hansen",
+    "href": "about-team.html#kasper-hansen",
+    "title": "Working Group Leadership Team",
+    "section": "Kasper Hansen",
+    "text": "Kasper Hansen\n\n\n\n\n\n\nKasper Hansen | I work on Genomic Data Science. My lab develops computational methods for analysis of high-throughput genomic data including transcriptomics and epigenomics measured using bulk, single-cell and spatial technologies. I have developed a number of very widely used software packages primarily released through the Bioconductor project. I am an associate professor of Biostatistics, Biomedical Engineering and Genetic Medicine."
+  },
+  {
+    "objectID": "about-team.html#hongkai-ji",
+    "href": "about-team.html#hongkai-ji",
+    "title": "Working Group Leadership Team",
+    "section": "Hongkai Ji",
+    "text": "Hongkai Ji\n\n\n\n\n\n\nHongkai Ji | My team specializes in developing statistical, computational, and machine learning methods, along with software tools, for high-throughput omics data. This includes bulk, single-cell, and spatial transcriptomics, epigenomics, and immune repertoire data. We focus on creating methods for data denoising, multi-omics analysis, managing data with complex structures, scalable data integration, comparative functional genomics, and genome-wide cross-modality prediction. Our methodological research is closely intertwined with the development of new technologies. Additionally, we apply these methods and tools to decode gene regulation, study cancer and cancer immunotherapy, investigate infectious diseases, and explore the early life origins of human diseases."
+  },
+  {
+    "objectID": "about-team.html#margaret-taub",
+    "href": "about-team.html#margaret-taub",
+    "title": "Working Group Leadership Team",
+    "section": "Margaret Taub",
+    "text": "Margaret Taub\n\n\n\n\n\n\nMargaret Taub | I work collaboratively with other biostatisticians, clinicians and epidemiologists to use genetic and genomic data to understand the causes of complex diseases/traits, including asthma, cardiovascular disease and chronic pain. I am particularly interested in study design and statistical approaches to alleviate technical artifacts, development of reproducible data generation and quality control pipelines, and integrative genomics data analysis, where multiple data types can be leveraged to shed light on the trait of interest."
+  },
+  {
+    "objectID": "about-team.html#weiqiang-zhou",
+    "href": "about-team.html#weiqiang-zhou",
+    "title": "Working Group Leadership Team",
+    "section": "Weiqiang Zhou",
+    "text": "Weiqiang Zhou\n\n\n\n\n\n\nWeiqiang Zhou | I am a data scientist working on genomics and big data analysis. I develop statistical and computational tools for integrative analysis of large-scale genomic data, including bulk and single-cell data, to study gene regulation in different diseases and biological systems. My team currently focuses on developing machine learning (AI) models to analyze single-cell multiomics data."
+  },
+  {
+    "objectID": "about-team.html#ni-zhao",
+    "href": "about-team.html#ni-zhao",
+    "title": "Working Group Leadership Team",
+    "section": "Ni Zhao",
+    "text": "Ni Zhao\n\n\n\n\n\n\nNi Zhao | Our team specializes in developing and applying advanced statistical and machine learning methodologies to address challenges in large-scale ‘omics’ studies. Our expertise spans metagenomics, genomics, immune profiling, and data derived from advanced spatial technologies, including spatial microbiome and spatial proteomics. Recent projects have focused on improving our understanding and correction of biases and unknown batch effects in microbiome research, facilitating both vertical and horizontal integration of microbiome data with other data types, and developing predictive models from high-throughput sequencing studies."
+  },
+  {
+    "objectID": "about-team.html#ingo-ruczinski",
+    "href": "about-team.html#ingo-ruczinski",
+    "title": "Working Group Leadership Team",
+    "section": "Ingo Ruczinski",
+    "text": "Ingo Ruczinski\n\n\n\n\n\n\nIngo Ruczinski | My professional expertise is in statistical genetics, genomics and proteomics. I have developed or co-developed several methodologies and open source software packages relevant for genomic array pre-processing, SNP association studies, population and family-based sequencing studies, studies of DNA copy number variants, and proteomic analyses, including data from PhIP-Seq and MIPSA experiments. I collaborate on several large-scale genomic association and sequencing studies at Johns Hopkins and as part of larger collaborations including the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program."
+  },
+  {
+    "objectID": "about-team.html#nilanjan-chatterjee",
+    "href": "about-team.html#nilanjan-chatterjee",
+    "title": "Working Group Leadership Team",
+    "section": "Nilanjan Chatterjee",
+    "text": "Nilanjan Chatterjee\n\n\n\n\n\n\nNilanjan Chatterjee | Dr. Chatterjee is a Bloomberg Distinguished Professor at the Department of Biostatistics, Bloomberg School of Public Health, and Department of Oncology School of Medicine at the Johns Hopkins University. Before joining Johns Hopkins, he led the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics of the US National Cancer Institute during 2008-2015. He is known for foundational and methodological contributions to multiple areas of modern biomedical data science, including large-scale analysis of genetic associations, gene-environment interactions, and predictive model building by synthesis of information from various data sources.  He has received numerous prestigious national and international awards, including the celebrated Committee of the Presidents of Statistical Societies (COPSS) President’s Award. He is an elected Fellow of the American Statistical Association and American Epidemiological Society. He serves on the scientific advisory committee of the Radiation Effect Research Foundation, Hiroshima, Japan and the Population and Prevention Research Committee of the foundation of Cancer Research UK."
   },
   {
     "objectID": "about.html",
@@ -117,75 +187,5 @@
     "title": "About",
     "section": "Where?",
     "text": "Where?\nIn person at the Bloomberg SPH. A zoom link will be available to only those who are in fully (or almost fully) remote positions, such as remote postdocs or faculty."
-  },
-  {
-    "objectID": "about-team.html",
-    "href": "about-team.html",
-    "title": "Working Group Leadership Team",
-    "section": "",
-    "text": "The organizers of the working group are the Biostats faculty working in genomics, including"
-  },
-  {
-    "objectID": "about-team.html#stephanie-hicks",
-    "href": "about-team.html#stephanie-hicks",
-    "title": "Working Group Leadership Team",
-    "section": "Stephanie Hicks",
-    "text": "Stephanie Hicks\n\n\n\n\n\n\n\n\n\nStephanie Hicks | Hello! I work at the intersection of data science and health as an Associate Professor of Biostatistics and Biomedical Engineering at Johns Hopkins University. I develop computational methods using statistics and machine learning for the analysis of single-cell and spatial genomic and imagine data. In 2024, I co-founded the JHU Genomic Data Science Working Group and today I help co-organize events! I work to made these spaces more welcoming, diverse, and inclusive. 🌱"
-  },
-  {
-    "objectID": "about-team.html#kasper-hansen",
-    "href": "about-team.html#kasper-hansen",
-    "title": "Working Group Leadership Team",
-    "section": "Kasper Hansen",
-    "text": "Kasper Hansen\n\n\n\n\n\n\n\n\n\nKasper Hansen | I work on Genomic Data Science. My lab develops computational methods for analysis of high-throughput genomic data including transcriptomics and epigenomics measured using bulk, single-cell and spatial technologies. I have developed a number of very widely used software packages primarily released through the Bioconductor project. I am an associate professor of Biostatistics, Biomedical Engineering and Genetic Medicine."
-  },
-  {
-    "objectID": "about-team.html#hongkai-ji",
-    "href": "about-team.html#hongkai-ji",
-    "title": "Working Group Leadership Team",
-    "section": "Hongkai Ji",
-    "text": "Hongkai Ji\n\n\n\n\n\n\n\n\n\nHongkai Ji | My team specializes in developing statistical, computational, and machine learning methods, along with software tools, for high-throughput omics data. This includes bulk, single-cell, and spatial transcriptomics, epigenomics, and immune repertoire data. We focus on creating methods for data denoising, multi-omics analysis, managing data with complex structures, scalable data integration, comparative functional genomics, and genome-wide cross-modality prediction. Our methodological research is closely intertwined with the development of new technologies. Additionally, we apply these methods and tools to decode gene regulation, study cancer and cancer immunotherapy, investigate infectious diseases, and explore the early life origins of human diseases."
-  },
-  {
-    "objectID": "about-team.html#margaret-taub",
-    "href": "about-team.html#margaret-taub",
-    "title": "Working Group Leadership Team",
-    "section": "Margaret Taub",
-    "text": "Margaret Taub\n\n\n\n\n\n\n\n\n\nMargaret Taub | I work collaboratively with other biostatisticians, clinicians and epidemiologists to use genetic and genomic data to understand the causes of complex diseases/traits, including asthma, cardiovascular disease and chronic pain. I am particularly interested in study design and statistical approaches to alleviate technical artifacts, development of reproducible data generation and quality control pipelines, and integrative genomics data analysis, where multiple data types can be leveraged to shed light on the trait of interest."
-  },
-  {
-    "objectID": "about-team.html#weiqiang-zhou",
-    "href": "about-team.html#weiqiang-zhou",
-    "title": "Working Group Leadership Team",
-    "section": "Weiqiang Zhou",
-    "text": "Weiqiang Zhou\n\n\n\n\n\n\n\n\n\nWeiqiang Zhou | I am a data scientist working on genomics and big data analysis. I develop statistical and computational tools for integrative analysis of large-scale genomic data, including bulk and single-cell data, to study gene regulation in different diseases and biological systems. My team currently focuses on developing machine learning (AI) models to analyze single-cell multiomics data."
-  },
-  {
-    "objectID": "about-team.html#ni-zhao",
-    "href": "about-team.html#ni-zhao",
-    "title": "Working Group Leadership Team",
-    "section": "Ni Zhao",
-    "text": "Ni Zhao\n\n\n\n\n\n\n\n\n\nNi Zhao | Our team specializes in developing and applying advanced statistical and machine learning methodologies to address challenges in large-scale ‘omics’ studies. Our expertise spans metagenomics, genomics, immune profiling, and data derived from advanced spatial technologies, including spatial microbiome and spatial proteomics. Recent projects have focused on improving our understanding and correction of biases and unknown batch effects in microbiome research, facilitating both vertical and horizontal integration of microbiome data with other data types, and developing predictive models from high-throughput sequencing studies."
-  },
-  {
-    "objectID": "about-team.html#ingo-ruczinski",
-    "href": "about-team.html#ingo-ruczinski",
-    "title": "Working Group Leadership Team",
-    "section": "Ingo Ruczinski",
-    "text": "Ingo Ruczinski\n\n\n\n\n\n\n\n\n\nIngo Ruczinski | My professional expertise is in statistical genetics, genomics and proteomics. I have developed or co-developed several methodologies and open source software packages relevant for genomic array pre-processing, SNP association studies, population and family-based sequencing studies, studies of DNA copy number variants, and proteomic analyses, including data from PhIP-Seq and MIPSA experiments. I collaborate on several large-scale genomic association and sequencing studies at Johns Hopkins and as part of larger collaborations including the NHLBI Trans-Omics for Precision Medicine (TOPMed) Program."
-  },
-  {
-    "objectID": "about-team.html#nilanjan-chatterjee",
-    "href": "about-team.html#nilanjan-chatterjee",
-    "title": "Working Group Leadership Team",
-    "section": "Nilanjan Chatterjee",
-    "text": "Nilanjan Chatterjee\n\n\n\n\n\n\n\n\n\nNilanjan Chatterjee | Dr. Chatterjee is a Bloomberg Distinguished Professor at the Department of Biostatistics, Bloomberg School of Public Health, and Department of Oncology School of Medicine at the Johns Hopkins University. Before joining Johns Hopkins, he led the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics of the US National Cancer Institute during 2008-2015. He is known for foundational and methodological contributions to multiple areas of modern biomedical data science, including large-scale analysis of genetic associations, gene-environment interactions, and predictive model building by synthesis of information from various data sources.  He has received numerous prestigious national and international awards, including the celebrated Committee of the Presidents of Statistical Societies (COPSS) President’s Award. He is an elected Fellow of the American Statistical Association and American Epidemiological Society. He serves on the scientific advisory committee of the Radiation Effect Research Foundation, Hiroshima, Japan and the Population and Prevention Research Committee of the foundation of Cancer Research UK."
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "MIT License",
-    "section": "",
-    "text": "MIT License\nCopyright (c) 2023 Margaret Taub\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   }
 ]

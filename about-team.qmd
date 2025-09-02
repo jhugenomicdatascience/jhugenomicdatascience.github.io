@@ -93,3 +93,14 @@ The organizers of the working group are the Biostats faculty working in genomics
 :::
 
 
+## Yiqun Chen
+
+::: {layout="[21,79]" .profile-header}
+
+![](images/yiqun_chen.jpg){.profile-pic}
+
+[**Yiqun Chen**](https://yiqunchen.github.io) | I work at the interface of AI and biostatistics. My expertise includes applying generative AI to biomedical data (e.g., genomics and other tabular modalities) and developing statistical inference procedures motivated by genomics applications (e.g., testing data-driven hypotheses in single-cell RNA-seq). I am particularly interested in how large language models (LLMs) can improve genomics data analysis—through more informative priors, clearer inductive biases, and better interpretation of findings in the biomedical literature—especially for perturbation studies. I am also working to validate and refine AI agent workflows for genomics data analysis.
+
+:::
+
+

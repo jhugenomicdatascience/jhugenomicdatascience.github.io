@@ -8,8 +8,6 @@ website:
       - about.qmd
       - text: Leadership Team 
         href: about-team.qmd
-      - text: Meeting Schedule 
-        href: meeting_schedule.qmd
       - icon: github
         href: https://github.com/jhugenomicdatascience
 

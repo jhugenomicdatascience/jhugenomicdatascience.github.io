@@ -112,6 +112,13 @@
     "text": "Nilanjan Chatterjee\n\n\n\n\n\n\nNilanjan Chatterjee | Dr. Chatterjee is a Bloomberg Distinguished Professor at the Department of Biostatistics, Bloomberg School of Public Health, and Department of Oncology School of Medicine at the Johns Hopkins University. Before joining Johns Hopkins, he led the Biostatistics Branch of the Division of Cancer Epidemiology and Genetics of the US National Cancer Institute during 2008-2015. He is known for foundational and methodological contributions to multiple areas of modern biomedical data science, including large-scale analysis of genetic associations, gene-environment interactions, and predictive model building by synthesis of information from various data sources.  He has received numerous prestigious national and international awards, including the celebrated Committee of the Presidents of Statistical Societies (COPSS) President’s Award. He is an elected Fellow of the American Statistical Association and American Epidemiological Society. He serves on the scientific advisory committee of the Radiation Effect Research Foundation, Hiroshima, Japan and the Population and Prevention Research Committee of the foundation of Cancer Research UK."
   },
   {
+    "objectID": "about-team.html#yiqun-chen",
+    "href": "about-team.html#yiqun-chen",
+    "title": "Working Group Leadership Team",
+    "section": "Yiqun Chen",
+    "text": "Yiqun Chen\n\n\n\n\n\n\nYiqun Chen | I work at the interface of AI and biostatistics. My expertise includes applying generative AI to biomedical data (e.g., genomics and other tabular modalities) and developing statistical inference procedures motivated by genomics applications (e.g., testing data-driven hypotheses in single-cell RNA-seq). I am particularly interested in how large language models (LLMs) can improve genomics data analysis—through more informative priors, clearer inductive biases, and better interpretation of findings in the biomedical literature—especially for perturbation studies. I am also working to validate and refine AI agent workflows for genomics data analysis."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
